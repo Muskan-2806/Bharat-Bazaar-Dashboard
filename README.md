@@ -75,3 +75,4 @@ bharat-bazaar-dashboard/
 
 ## 📁 Output
 
+![Image](https://github.com/user-attachments/assets/d7f3e28a-5415-40bc-9e1e-c299024d0433)
